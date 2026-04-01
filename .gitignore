@@ -14,8 +14,11 @@ vendor/
 env
 # 忽略特定文件夹及其内容
 build/
-dist/
+scratch/
+template/
 
-# 忽略所有 .txt/.pdf 文件
-*.txt
+# 忽略所有 .doc/.pdf 文件
 *.pdf
+*.docx
+*.docx
+*.zip
