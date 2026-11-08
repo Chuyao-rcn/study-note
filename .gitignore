@@ -16,9 +16,10 @@ env
 build/
 scratch/
 template/
+reference/
 
 # 忽略所有 .doc/.pdf 文件
 *.pdf
-*.docx
+*.doc
 *.docx
 *.zip
